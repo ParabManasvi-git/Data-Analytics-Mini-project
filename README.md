@@ -112,6 +112,8 @@ Recommended Movies
 4. Interstellar
 5. Jupiter Ascending
 ```
+<img width="308" height="248" alt="Image" src="https://github.com/user-attachments/assets/e5fedd46-b07b-4fa5-9f9f-442ee924ccad" />
+<img width="581" height="248" alt="Image" src="https://github.com/user-attachments/assets/e5141a4b-2f72-446e-82fe-b43dcffcab0a" />
 
 ---
 
